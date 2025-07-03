@@ -33,8 +33,12 @@ Pin 3        | FF_CLK_PIN (Shift Register Clock)
 Pin 11 (MOSI)| SPI Data In (All MCP3204s)
 Pin 12 (MISO)| SPI Data Out (All MCP3204s)
 Pin 13 (SCK) | SPI Clock (All MCP3204s)
-5V           | VCC (PCB Power)
 GND          | GND (PCB Ground)
+-------------|---------------
+Power supply | PCB Connection
+-------------|---------------
+PSU 7-24V    | VCC (PCB Power)
+PSU GND      | GND (PCB Ground)
 ```
 
 #### Arduino Mega Connections:
@@ -46,8 +50,12 @@ Pin 3        | FF_CLK_PIN (Shift Register Clock)
 Pin 51 (MOSI)| SPI Data In (All MCP3204s)
 Pin 50 (MISO)| SPI Data Out (All MCP3204s)
 Pin 52 (SCK) | SPI Clock (All MCP3204s)
-5V           | VCC (PCB Power)
 GND          | GND (PCB Ground)
+-------------|---------------
+Power supply | PCB Connection
+-------------|---------------
+PSU 7-24V    | VCC (PCB Power)
+PSU GND      | GND (PCB Ground)
 ```
 
 ## Software Setup
