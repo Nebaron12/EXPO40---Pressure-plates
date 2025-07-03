@@ -186,6 +186,6 @@ Shift register control for CS line management (used internally)
 This project is based on work licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
 ## Author
-Dirk Jan Bakels - [GitHub Profile](https://github.com/yourusername)
+Dirk Jan Bakels - [GitHub Profile](https://github.com/Nebaron12)
                 - 524334@student.fontys.nl (student email)
 For questions or bug reports, please open an issue on this repository.
